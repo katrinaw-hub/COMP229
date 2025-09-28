@@ -4,7 +4,6 @@ export default function About() {
         <section className="container">
             <h1>About Me</h1>
             <div className="about-grid">
-                {/* Use a real headshot image placed in /public/me.jpg if you have it */}
                 <img src="/me.png" alt="Headshot of Your Name" className="avatar" />
                 <div>
                     <p>

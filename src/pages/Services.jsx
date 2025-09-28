@@ -10,7 +10,6 @@ export default function Services() {
     <section className="container">
       <h1>Services</h1>
 
-      {/* Your single service image here */}
       <img
         src="Service.png"
         alt="Services illustration"
